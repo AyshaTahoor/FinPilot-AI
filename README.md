@@ -1,2 +1,2 @@
 # FinPilot-AI
-FinPilot AI is an AI-powered stock research and watchlist application built with technologies like React Native, Expo, and TypeScript. The app provides real-time market tracking, personalized watchlists, and AI-generated stock insights through a responsive and modern mobile experience!
+FinPilot AI is an AI-powered stock research and watchlist application built with technologies React Native, Expo, and TypeScript. The app provides real-time market tracking, personalized watchlists, and AI-generated stock insights through a responsive and modern mobile experience!
